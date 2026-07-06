@@ -2,6 +2,8 @@
   "enabled": true,
   "message": "App is running normally",
   "min_version": "1.0",
-  "keyauth_version": "1.0"
+  "keyauth_version": "1.0",
+  "keyauth_appname": "Yhh30021's Application",
+  "keyauth_ownerid": "GylNkBGO6J",
+  "keyauth_url": "https://keyauth.win/api/1.2/"
 }
-
