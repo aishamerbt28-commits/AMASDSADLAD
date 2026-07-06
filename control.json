@@ -1,5 +1,7 @@
 {
   "enabled": true,
   "message": "App is running normally",
-  "min_version": "1.0"
+  "min_version": "1.0",
+  "keyauth_version": "1.0"
 }
+
